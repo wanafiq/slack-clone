@@ -1,4 +1,4 @@
-This project a clone of [Slack](https://slack.com/) and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This project is a clone of [Slack](https://slack.com/) and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 [Firebase](https://firebase.google.com/) is used as a database and also deployment platform. Click [here](https://slack-clone-de511.firebaseapp.com/) to see live demo
 
